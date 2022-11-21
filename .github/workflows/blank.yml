@@ -6,8 +6,8 @@ on:
       condition:
         description: "If you want to apply (Yes) or if you want to destroy (No)"
         required: true
-        default: "Yes"
-      	
+      
+    
 
 env:
   aws-region: ap-south-1
