@@ -1,12 +1,3 @@
-
-
-0
-
-
-I was able to deploy ec2 instance with github actions workflow. any idea what i need to do to reverse or destroy the changes I deployed on aws?
-
-Here is my terraform apply form
-
 name: Terraform-Apply
 
 on:
